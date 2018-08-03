@@ -5,5 +5,4 @@ package priv.augus.factory.simpleFactory;
  */
 public interface Food {
      String  eat();
-
 }
